@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\bin\Debug\Client Rest.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\bin\Debug\Client Rest.exe
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\bin\Debug\Client Rest.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client Rest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client_Rest.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client_Rest.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client Rest.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client Rest.exe
+c:\users\pc\documents\visual studio 2013\Projects\Client Rest\Client Rest\obj\Debug\Client Rest.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Client Rest\Client Rest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\Client Rest\Client Rest\bin\Debug\Newtonsoft.Json.xml
